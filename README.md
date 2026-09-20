@@ -1,5 +1,5 @@
-# EX.No.2.1  CREATE A 3D SOLID MODEL FROM ISOMETRIC DRAWING
-## Date:
+[# EX.No.2.1  CREATE A 3D SOLID MODEL FROM ISOMETRIC DRAWING
+## Date: 17.09.2026
 
 ## AIM
 To create a 3Dmodel from the given isometric drawing using fusion 360 tool. 
@@ -25,7 +25,7 @@ To create a 3Dmodel from the given isometric drawing using fusion 360 tool.
    1.	Select Sketch > Rectangle > Center Rectangle.
    2.	Now hover over the origin (center) of the sketch. You should see the cursor snap to this location.
    3.	Click once to begin placing the rectangle.
-   4.	Type the Tab button and enter the values 100 mm and 60mm for the width and height respectively.
+ 4.	Type the Tab button and enter the values 100 mm and 60mm for the width and height respectively.
    5.	Click again to place the rectangle.
    6.	Click Finish Sketch after completing.
 
@@ -42,7 +42,7 @@ To create a 3Dmodel from the given isometric drawing using fusion 360 tool.
    Select the FRON SURFACE of rectangular block 
  ### STEP-7: Create a CIRCLE 
    1.	Select Sketch >CIRCLE  > CENTER CIRCLE.
-   2.	Now hover over the origin (center) of the sketch. You should see the cursor snap to this location.
+  2.	Now hover over the origin (center) of the sketch. You should see the cursor snap to this location.
    3.	Click once to begin placing the CIRCLE.
    4.	Type the Tab button and enter the value DIA 100mm .
    5.	Click again to place the circle.
@@ -54,7 +54,6 @@ To create a 3Dmodel from the given isometric drawing using fusion 360 tool.
    3.	Click again to place the value.
    4.	Type in the value of 20mm. 
    5.	Press ENTER to accept the value.
-
  ### STEP-9: Start the sketch command
    Select Sketch > Create Sketch.
    
@@ -71,6 +70,10 @@ To create a 3Dmodel from the given isometric drawing using fusion 360 tool.
 ![image](https://user-images.githubusercontent.com/113594316/198495472-9a69edb1-f0c6-470c-b9ae-fe282fa6a678.png)
 
 ## OUTPUT
+![image](https://github.com/user-attachments/assets/f23d1c33-60df-4291-823a-af30d8a051f7)
 
 ## RESULT: 
  Thus, the 3D model is created from given isometric drawing.
+](https://github.com/S-Jashwin/Ex.No.-1.2---Design-and-Draft-the-given-2D-Sketches-in-modelling-software./blob/main/README.md)
+
+
